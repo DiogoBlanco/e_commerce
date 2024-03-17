@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.page_title {
+  font-size: 3rem;
+  margin-top: 5rem;
+}
